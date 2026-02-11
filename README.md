@@ -1,16 +1,23 @@
-# delivery_app
+# Ecommerce Delivery App (Flutter)
 
-A new Flutter project.
+Delivery application for drivers to manage assigned orders.
 
-## Getting Started
+## Features
+- Driver authentication
+- View assigned orders
+- Update order status (picked up, delivered)
+- API integration
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
+- REST API
+- GetX
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+(Add screenshots here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Related Repositories
+- Backend API: link
+- Customer App: link
+- Admin App: link
